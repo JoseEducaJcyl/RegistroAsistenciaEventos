@@ -1,3 +1,5 @@
+// Clase Asisntente con los atributos nombre, apellidos y email
+// con un metodo para comprobar la igualdad entre dos objetos de la clase 
 import java.util.Objects;
 
 public class Asistente {
